@@ -79,7 +79,7 @@ def drawRect(img, rect):
 
 if __name__ == '__main__':
     # 模型路径
-    model = 'ckpt/epoch_0075_iou_0.9831_'
+    model = 'path_to_pretrained_model'
     input_path = 'demo/input'
     output_path = 'demo/output'
 
