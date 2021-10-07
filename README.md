@@ -86,3 +86,6 @@ visualisation of the trained networks are done using the `demo.py` script.
 Modify the path of the pre-trained model before running, i.e. `model`.
 
 Some output examples of AFFGA-Net is under the `demo\output`.
+
+## Running on a kinova Robot
+future work
