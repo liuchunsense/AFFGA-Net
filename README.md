@@ -8,7 +8,7 @@ This repository contains the data set used to train AFFGA-Net and the program fo
 
 **High-performance Pixel-level Grasp Detection based on Adaptive Grasping and Grasp-aware Network**
 
-Dexin Wang, Chunsheng Liu, Faliang Chang, and Nanjun Li
+Dexin Wang, Chunsheng Liu, Faliang Chang, Nanjun Li, and Guangxin Li
 
 This paper has been accepted by *IEEE Trans. Ind. Electron*.
 
